@@ -1,0 +1,20 @@
+/* Default light mode styles (optional) */
+body {
+  background-color: white;
+  color: black;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Dark mode styles */
+.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+
+
+
+input, button {
+  margin-top: 5px;
+  padding: 5px;
+}
